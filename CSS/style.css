@@ -522,8 +522,8 @@ body{
   .side-nav__content li:hover { background:#F5F5F5; }
     
 .side-nav__hide{
-    background:#428FAF;
-    color:#428FAF;
+    background-color:#428FAF;
+    border: none;
 }
   .mbprof{
     border-radius: 50%;
