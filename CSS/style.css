@@ -587,7 +587,7 @@ body{
   vertical-align: top;
   display: flex;
   width: 1.3rem;
-  margin-left: 200px;
+  margin-left: 170px;
   transform: rotate(250deg);
 
 }
@@ -596,7 +596,7 @@ body{
   margin-top: .6rem;
   transform: rotate(180deg);
   width: 1.1rem;
-  margin-left: 190px;
+  margin-left: 150px;
 }
 hr {
     border-top: #bfb9b9;
